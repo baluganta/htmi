@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="p1"></p>
+    <p id="p2"></p>
+    <p id="p3"></p>
+    <script>
+        student={ name:'Balu',no:' 4302',branch:' CAI'}
+        document.getElementById('p1').innerHTML=student.name;
+        x=""
+        for(let i in student)
+        {
+            x+=student[i];
+        }
+        document.getElementById('p1').innerHTML=x;
+        person=(first_name:'teja',last_name:'balu',bills:[{name='b1=' type:['10','21','31' '41'],name='b2=' type:['11','22','33','44']}])
+        y=""
+        for(let i in person)
+        {
+            y+=person[i];
+        }   
+        document.getElementById('p2').innerHTML=person.bills 
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="list.xsl"?>
+<BooksCatalog>
+<book>
+<title>Computer Networks</title>
+<author>Andrew S. TanenBaum</author>
+<isbn>C254854</isbn>
+<publisher>PHI</publisher>
+<edition>2nd edition</edition>
+<price>500</price>
+</book>
+<book>
+<title>Network operator</title>
+<author>Aen Baum</author>
+<isbn>C254736</isbn>
+<publisher>PHI</publisher>
+<edition>3rd edition</edition>
+<price>650</price>
+</book>
+<book>
+    <title>Computer science</title>
+<author>AndS.Tane</author>
+<isbn>H237254</isbn>
+<publisher>PHI</publisher>
+<edition>2nd edition</edition>
+<price>550</price>
+</book>
+<book>
+    <title>science</title>
+<author>Andne</author>
+<isbn>H230054</isbn>
+<publisher>PHI</publisher>
+<edition>2nd edition</edition>
+<price>350.50</price>
+</book>
+</BooksCatalog>
